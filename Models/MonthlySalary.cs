@@ -12,7 +12,7 @@ namespace EmployeeManagement.Models
 
         [Required]
         public int BasicId { get; set; }
-        public BasicSalary BasicSalary { get; set; }
+      
 
         [Required]
         public int Month { get; set; }
@@ -36,8 +36,8 @@ namespace EmployeeManagement.Models
         [Column(TypeName = "decimal(18,2)")]
         public decimal Salary { get; set; }
 
+        public BasicSalary BasicSalary { get; set; }
 
- 
 
     }
 }

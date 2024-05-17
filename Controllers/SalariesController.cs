@@ -56,26 +56,22 @@ namespace EmployeeManagement.Controllers
         [HttpGet("GetSalaryByEmail")]
         [Authorize(Roles = AppRoles.Accountant)]
         [ClaimRequirement("api", "GetSalaryByEmail")]
-        public async Task<IActionResult> GetSalaryByEmail(string email)
+        public async Task<IActionResult> GetSalaryByEmail(string email, int month, int year)
         {
             try
             {
                 var user = await _userManager.FindByEmailAsync(email);
-               
+
                 if (user == null)
                 {
                     return NotFound($"No user found with email '{email}'.");
                 }
 
-                // Fetch salary for the current month and year
-                var currentDate = DateTime.Now;
-                var month = currentDate.Month;
-                var year = currentDate.Year;
                 var salary = await _salaryService.CheckSalary(user.Id, month, year);
 
                 if (salary == null)
                 {
-                    return NotFound($"No salary information found for user with email '{email}'.");
+                    return NotFound($"No salary information found for user with email '{email}' for month {month} and year {year}.");
                 }
 
                 return Ok(salary);

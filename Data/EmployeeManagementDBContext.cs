@@ -37,6 +37,11 @@ namespace EmployeeManagement.Data
                 .WithMany(bs => bs.MonthlySalaries)
                 .HasForeignKey(ms => ms.BasicId);
 
+            modelBuilder.Entity<ApplicationUser>()
+                .HasOne(u => u.BasicSalary)
+                .WithOne(bs => bs.User)
+                .HasForeignKey<BasicSalary>(bs => bs.UserId)
+                .IsRequired(false);
 
             modelBuilder.Entity<Form>()
                 .HasOne(f => f.FormType)

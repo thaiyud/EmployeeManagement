@@ -58,11 +58,11 @@ namespace EmployeeManagement.Services.Implementations
             if (result.Succeeded)
             {
                
-                if (!await _roleManager.RoleExistsAsync(AppRoles.Admin))
+                if (!await _roleManager.RoleExistsAsync(AppRoles.Employee))
                 {
-                    await _roleManager.CreateAsync(new IdentityRole(AppRoles.Admin));
+                    await _roleManager.CreateAsync(new IdentityRole(AppRoles.Employee));
                 }
-                await _userManager.AddToRoleAsync(user, AppRoles.Admin);
+                await _userManager.AddToRoleAsync(user, AppRoles.Employee);
 
             
             }

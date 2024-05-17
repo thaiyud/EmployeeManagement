@@ -16,7 +16,7 @@ namespace EmployeeManagement.Models
         [Column(TypeName = "decimal(18,2)")]
         public decimal BasicAmount { get; set; }
 
-        public ApplicationUser User { get; set; }
+        public virtual ApplicationUser User { get; set; }
 
         public virtual ICollection<MonthlySalary> MonthlySalaries { get; set; }
     }

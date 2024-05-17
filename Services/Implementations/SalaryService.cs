@@ -25,13 +25,7 @@ namespace EmployeeManagement.Services.Implementations
                 throw new InvalidOperationException("Basic salary not found for the user.");
             }
 
-            //// Retrieve monthly salary
-            //var monthlySalary = await _salaryRepository.GetMonthlySalaryByUserIdAsync(userId, month, year);
-            //if (monthlySalary != null)
-            //{
-            //    // Monthly salary already calculated, return it
-            //    return monthlySalary.Salary;
-            //}
+   
             int daysInMonth = DateTime.DaysInMonth(year, month);
             int numberOfDaysOff = await GetNumberOfDaysOff(userId, month, year);
             decimal bonuses = 0; 
@@ -40,20 +34,35 @@ namespace EmployeeManagement.Services.Implementations
 
            
             decimal salary = basicSalary.BasicAmount + bonuses - deductions + allowances;
+            // Check if a record already exists for the specified BasicId, month, and year
+            var existingMonthlySalary = await _salaryRepository.GetMonthlySalaryByUserIdAsync(userId, month, year);
 
-            // Save monthly salary
-            var newMonthlySalary = new MonthlySalary
+            if (existingMonthlySalary != null)
             {
-                Id = basicSalary.Id,
-                Month = month,
-                Year = year,
-                Bonuses = bonuses,
-                Deductions = deductions,
-                Allowances = allowances,
-                Salary = salary
-            };
+                // Update the existing record
+                existingMonthlySalary.Bonuses = bonuses;
+                existingMonthlySalary.Deductions = deductions;
+                existingMonthlySalary.Allowances = allowances;
+                existingMonthlySalary.Salary = salary;
+
+                _salaryRepository.UpdateAsync(existingMonthlySalary);
+            }
+            else
+            {
+                // Save monthly salary
+                var newMonthlySalary = new MonthlySalary
+                {
+                    BasicId = basicSalary.Id,
+                    Month = month,
+                    Year = year,
+                    Bonuses = bonuses,
+                    Deductions = deductions,
+                    Allowances = allowances,
+                    Salary = salary
+                };
             await _salaryRepository.CreateAsync(newMonthlySalary);
             await _unitOfWork.SaveChangesAsync();
+            }
 
             return salary;
         }
@@ -66,24 +75,23 @@ namespace EmployeeManagement.Services.Implementations
             int totalDaysOff = 0;
             foreach (var form in forms)
             {
-                // Check if the form spans multiple months
+              
                 DateTime formStartDate = form.DayStart ?? DateTime.MinValue;
                 DateTime formEndDate = form.DayEnd ?? DateTime.MinValue;
 
-                // Adjust the start and end dates if they fall outside the given month
-                if (formStartDate.Month != month)
+
+                if (formStartDate < new DateTime(year, month, 1))
                 {
                     formStartDate = new DateTime(year, month, 1);
                 }
-                if (formEndDate.Month != month)
+                if (formEndDate > new DateTime(year, month, DateTime.DaysInMonth(year, month)))
                 {
                     formEndDate = new DateTime(year, month, DateTime.DaysInMonth(year, month));
                 }
 
-                // Calculate the number of days off for this form
                 int daysOffForForm = (int)(formEndDate - formStartDate).TotalDays + 1;
 
-                // Add the days off for this form to the total
+               
                 totalDaysOff += daysOffForForm;
             }
 
