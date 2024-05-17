@@ -9,7 +9,7 @@ namespace EmployeeManagement.DTO
 
         public string LastName { get; set; } = null!;
         public virtual ICollection<Form> Forms { get; set; }
-        public virtual ICollection<Salary> Salaries { get; set; }
-    
+        public virtual BasicSalary BasicSalary { get; set; }
+
     }
 }

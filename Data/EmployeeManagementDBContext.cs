@@ -14,7 +14,9 @@ namespace EmployeeManagement.Data
        : base(options)
         {
         }
-        public DbSet<Salary> Salaries { get; set; }
+        public DbSet<BasicSalary> BasicSalaries { get; set; }
+        public DbSet<MonthlySalary> MonthlySalaries { get; set; }
+
         public DbSet<Form> Forms { get; set; }
         public DbSet<FormType> FormTypes { get; set; }
         public DbSet<FileAttachment> FileAttachments { get; set; }
@@ -28,12 +30,13 @@ namespace EmployeeManagement.Data
               .WithMany(u => u.Forms)
               .HasForeignKey(f => f.UserId)
               .OnDelete(DeleteBehavior.Cascade);
+         
 
-            modelBuilder.Entity<Salary>()
-                .HasOne(s => s.User)
-                .WithMany(u => u.Salaries)
-                .HasForeignKey(s => s.UserId)
-                .OnDelete(DeleteBehavior.Cascade);
+            modelBuilder.Entity<MonthlySalary>()
+                .HasOne(ms => ms.BasicSalary)
+                .WithMany(bs => bs.MonthlySalaries)
+                .HasForeignKey(ms => ms.BasicId);
+
 
             modelBuilder.Entity<Form>()
                 .HasOne(f => f.FormType)
@@ -46,6 +49,12 @@ namespace EmployeeManagement.Data
                 .WithOne(a => a.Form)
                 .HasForeignKey<FileAttachment>(a => a.FormId)
                 .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Form>()
+      .HasOne(f => f.FormType)
+      .WithMany(ft => ft.Forms)
+      .HasForeignKey(f => f.FormTypeId)
+      .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

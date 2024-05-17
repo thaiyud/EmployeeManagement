@@ -4,6 +4,7 @@ using EmployeeManagement.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeeManagement.Migrations
 {
     [DbContext(typeof(EmployeeManagementDBContext))]
-    partial class EmployeeManagementDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240517163825_ver6")]
+    partial class ver6
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -228,12 +231,17 @@ namespace EmployeeManagement.Migrations
                     b.Property<decimal>("Salary")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<int>("Year")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("BasicId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("MonthlySalaries");
                 });
@@ -373,13 +381,9 @@ namespace EmployeeManagement.Migrations
 
             modelBuilder.Entity("EmployeeManagement.Models.BasicSalary", b =>
                 {
-                    b.HasOne("EmployeeManagement.DTO.ApplicationUser", "User")
+                    b.HasOne("EmployeeManagement.DTO.ApplicationUser", null)
                         .WithOne("BasicSalary")
-                        .HasForeignKey("EmployeeManagement.Models.BasicSalary", "UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("User");
+                        .HasForeignKey("EmployeeManagement.Models.BasicSalary", "UserId");
                 });
 
             modelBuilder.Entity("EmployeeManagement.Models.FileAttachment", b =>
@@ -420,7 +424,13 @@ namespace EmployeeManagement.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("EmployeeManagement.DTO.ApplicationUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId");
+
                     b.Navigation("BasicSalary");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

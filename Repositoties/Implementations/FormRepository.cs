@@ -22,5 +22,11 @@ namespace EmployeeManagement.Repositories
                                  .Where(f => f.User.Email == email)
                                  .ToListAsync();
         }
+        public async Task<List<Form>> GetFormsByUserIdAndMonthAsync(string userId, int month, int year)
+        {
+            return await _context.Forms
+                .Where(f => f.UserId == userId && f.DateSubmitted.Month == month && f.DateSubmitted.Year == year)
+                .ToListAsync();
+        }
     }
 }

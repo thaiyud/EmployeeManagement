@@ -81,15 +81,16 @@ namespace EmployeeManagement
             builder.Services.AddScoped<IClaimsRepository, ClaimsRepository>();
             builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             builder.Services.AddScoped<IFormRepository, FormRepository>();
+            builder.Services.AddScoped<ISalaryRepository, SalaryRepository>();
             // khai bao service
             builder.Services.AddScoped<IUserClaimsService, UserClaimsService>();
-           
             builder.Services.AddScoped<ITokenService, TokenService>();
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<IFormService, FormService>();
             builder.Services.AddScoped<IFileService, FileService>();
-            
-           
+            builder.Services.AddScoped<ISalaryService, SalaryService>();
+
+
 
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<EmployeeManagementDBContext>().AddDefaultTokenProviders();
 

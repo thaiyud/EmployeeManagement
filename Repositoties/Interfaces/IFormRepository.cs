@@ -7,5 +7,6 @@ namespace EmployeeManagement.Repositories
     public interface IFormRepository : IRepository<Form>
     {
         Task<IEnumerable<Form>> GetFormsByUserEmailAsync(string email);
+        Task<List<Form>> GetFormsByUserIdAndMonthAsync(string userId, int month, int year);
     }
 }

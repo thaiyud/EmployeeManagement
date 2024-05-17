@@ -4,6 +4,7 @@ using EmployeeManagement.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeeManagement.Migrations
 {
     [DbContext(typeof(EmployeeManagementDBContext))]
-    partial class EmployeeManagementDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240517164725_ver8")]
+    partial class ver8
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -110,10 +113,16 @@ namespace EmployeeManagement.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<string>("UserId1")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("UserId")
                         .IsUnique();
+
+                    b.HasIndex("UserId1");
 
                     b.ToTable("BasicSalaries");
                 });
@@ -373,9 +382,13 @@ namespace EmployeeManagement.Migrations
 
             modelBuilder.Entity("EmployeeManagement.Models.BasicSalary", b =>
                 {
-                    b.HasOne("EmployeeManagement.DTO.ApplicationUser", "User")
+                    b.HasOne("EmployeeManagement.DTO.ApplicationUser", null)
                         .WithOne("BasicSalary")
-                        .HasForeignKey("EmployeeManagement.Models.BasicSalary", "UserId")
+                        .HasForeignKey("EmployeeManagement.Models.BasicSalary", "UserId");
+
+                    b.HasOne("EmployeeManagement.DTO.ApplicationUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId1")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

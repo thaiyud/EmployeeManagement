@@ -3,180 +3,244 @@
   "WorkspaceRootPath": "D:\\sem6\\.Net\\EmployeeManagementverchat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\models\\basicsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\basicsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\models\\fileattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\fileattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517170641_ver10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517170641_ver10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\data\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:data\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\migrations\\20240517134003_ver3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:migrations\\20240517134003_ver3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517165642_add-migrtion ver9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517165642_add-migrtion ver9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\dto\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\migrations\\20240517164725_ver8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:migrations\\20240517164725_ver8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517045959_databaseupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:Migrations\\20240517045959_databaseupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517023017_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:Migrations\\20240517023017_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\migrations\\20240515114720_identityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:migrations\\20240515114720_identityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\migrations\\employeemanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:migrations\\employeemanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\controllers\\salariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\salariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\models\\monthlysalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\monthlysalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517164120_ver7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517164120_ver7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\dto\\basicsalarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\basicsalarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517163825_ver6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517163825_ver6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\implementations\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\implementations\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\implementations\\userclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\userclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\interfaces\\iuserclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\iuserclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517155622_ver5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517155622_ver5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\implementations\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\dto\\fileattachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\fileattachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\implementations\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\interfaces\\iuserclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\iuserclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\controllers\\userclaimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\controllers\\userclaimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\userclaimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\dto\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\interfaces\\isalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\isalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\interfaces\\isalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\isalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517091043_addfieldforform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517091043_addfieldforform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\data\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:data\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\models\\fileattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\fileattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\implementations\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\implementations\\claimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\claimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\models\\formtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\formtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\interfaces\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517045959_databaseupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517045959_databaseupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\implementations\\userclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\userclaimsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517023017_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517023017_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\migrations\\employeemanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:migrations\\employeemanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\dto\\userclaimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\userclaimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\interfaces\\iclaimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\iclaimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\repositoties\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\helpers\\claimrequirementattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\dto\\fileattachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\fileattachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\implementations\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\interfaces\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517134341_ver4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517134341_ver4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\models\\formtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:models\\formtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\implementations\\claimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\implementations\\claimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\dto\\userclaimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\userclaimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\repositoties\\interfaces\\iclaimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:repositoties\\interfaces\\iclaimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\helpers\\claimrequirementattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:helpers\\claimrequirementattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\helpers\\claimrequirementfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\helpers\\claimrequirementfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:helpers\\claimrequirementfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\services\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:services\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\helpers\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\helpers\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:helpers\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|d:\\sem6\\.net\\employeemanagementverchat\\dto\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\dto\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:dto\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517091043_addfieldforform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71BE76D-7546-468C-8C41-209255D8B317}|EmployeeManagement.csproj|solutionrelative:Migrations\\20240517091043_addfieldforform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -186,7 +250,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,7 +282,293 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicSalary.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\BasicSalary.cs",
+              "RelativeDocumentMoniker": "Models\\BasicSalary.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\BasicSalary.cs",
+              "RelativeToolTip": "Models\\BasicSalary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:08:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240517170641_ver10.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517170641_ver10.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517170641_ver10.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517170641_ver10.cs",
+              "RelativeToolTip": "Migrations\\20240517170641_ver10.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:06:41.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240517165642_add-migrtion ver9.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517165642_add-migrtion ver9.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517165642_add-migrtion ver9.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517165642_add-migrtion ver9.cs",
+              "RelativeToolTip": "Migrations\\20240517165642_add-migrtion ver9.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:56:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240517164725_ver8.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517164725_ver8.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517164725_ver8.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517164725_ver8.cs",
+              "RelativeToolTip": "Migrations\\20240517164725_ver8.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:47:25.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240517045959_databaseupdate.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517045959_databaseupdate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517045959_databaseupdate.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517045959_databaseupdate.cs",
+              "RelativeToolTip": "Migrations\\20240517045959_databaseupdate.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:59:59.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240517134003_ver3.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517134003_ver3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517134003_ver3.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517134003_ver3.cs",
+              "RelativeToolTip": "Migrations\\20240517134003_ver3.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:40:03.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAttachment.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FileAttachment.cs",
+              "RelativeDocumentMoniker": "Models\\FileAttachment.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FileAttachment.cs",
+              "RelativeToolTip": "Models\\FileAttachment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:40:58.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManagementDBContext.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Data\\EmployeeManagementDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeManagementDBContext.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Data\\EmployeeManagementDBContext.cs",
+              "RelativeToolTip": "Data\\EmployeeManagementDBContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:22:38.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DTO\\ApplicationUser.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\ApplicationUser.cs",
+              "RelativeToolTip": "DTO\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:51:29.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20240517023017_InitialCreate.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517023017_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517023017_InitialCreate.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517023017_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240517023017_InitialCreate.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowCwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:30:17.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240515114720_IdentityAuthentication.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240515114720_IdentityAuthentication.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240515114720_IdentityAuthentication.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240515114720_IdentityAuthentication.cs",
+              "RelativeToolTip": "Migrations\\20240515114720_IdentityAuthentication.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:48:58.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalariesController.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\SalariesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalariesController.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\SalariesController.cs",
+              "RelativeToolTip": "Controllers\\SalariesController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:27:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MonthlySalary.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\MonthlySalary.cs",
+              "RelativeDocumentMoniker": "Models\\MonthlySalary.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\MonthlySalary.cs",
+              "RelativeToolTip": "Models\\MonthlySalary.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:41:17.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeManagementDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:39:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasicSalaryDTO.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\BasicSalaryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BasicSalaryDTO.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\BasicSalaryDTO.cs",
+              "RelativeToolTip": "DTO\\BasicSalaryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:27:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240517163825_ver6.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517163825_ver6.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517163825_ver6.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517163825_ver6.cs",
+              "RelativeToolTip": "Migrations\\20240517163825_ver6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:38:26.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240517164120_ver7.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517164120_ver7.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517164120_ver7.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517164120_ver7.cs",
+              "RelativeToolTip": "Migrations\\20240517164120_ver7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:41:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\FileService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FileService.cs",
+              "RelativeToolTip": "Services\\Implementations\\FileService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:51:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FormService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\FormService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FormService.cs",
+              "RelativeToolTip": "Services\\Implementations\\FormService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:12:55.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\SalaryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SalaryService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\SalaryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SalaryService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA7wDcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:36:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\TokenService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\TokenService.cs",
+              "RelativeToolTip": "Services\\Implementations\\TokenService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:20:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserClaimsService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserClaimsService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UserClaimsService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserClaimsService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UserClaimsService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:35:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "IUserClaimsService.cs",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IUserClaimsService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IUserClaimsService.cs",
@@ -231,150 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAowI0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:14:32.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FormService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\FormService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FormService.cs",
-              "RelativeToolTip": "Services\\Implementations\\FormService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowDYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:12:55.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FileService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\FileService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\FileService.cs",
-              "RelativeToolTip": "Services\\Implementations\\FileService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAkwDoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:51:16.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormsController.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\FormsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FormsController.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\FormsController.cs",
-              "RelativeToolTip": "Controllers\\FormsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:14:57.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormDTO.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FormDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\FormDTO.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FormDTO.cs",
-              "RelativeToolTip": "DTO\\FormDTO.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:58:08.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileAttachmentDTO.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FileAttachmentDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\FileAttachmentDTO.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FileAttachmentDTO.cs",
-              "RelativeToolTip": "DTO\\FileAttachmentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:44:04.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Repositoties\\Implementations\\UnitOfWork.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\UnitOfWork.cs",
-              "RelativeToolTip": "Repositoties\\Implementations\\UnitOfWork.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:18:02.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RoleDTO.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\RoleDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\RoleDTO.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\RoleDTO.cs",
-              "RelativeToolTip": "DTO\\RoleDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:44:49.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "Controllers\\RolesController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAowCUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:43:12.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserClaimsController.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\UserClaimsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserClaimsController.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\UserClaimsController.cs",
-              "RelativeToolTip": "Controllers\\UserClaimsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:10:17.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\UserService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserService.cs",
-              "RelativeToolTip": "Services\\Implementations\\UserService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvx4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:20:57.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
@@ -387,319 +594,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "DTO\\ApplicationUser.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\ApplicationUser.cs",
-              "RelativeToolTip": "DTO\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:51:29.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmployeeManagementDBContext.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Data\\EmployeeManagementDBContext.cs",
-              "RelativeDocumentMoniker": "Data\\EmployeeManagementDBContext.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Data\\EmployeeManagementDBContext.cs",
-              "RelativeToolTip": "Data\\EmployeeManagementDBContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwB8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:22:38.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IFormService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFormService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IFormService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFormService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IFormService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:11:44.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\ITokenService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\ITokenService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\ITokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:00:02.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClaimsRepository.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\ClaimsRepository.cs",
-              "RelativeDocumentMoniker": "Repositoties\\Implementations\\ClaimsRepository.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\ClaimsRepository.cs",
-              "RelativeToolTip": "Repositoties\\Implementations\\ClaimsRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:33:50.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Form.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\Form.cs",
-              "RelativeDocumentMoniker": "Models\\Form.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\Form.cs",
-              "RelativeToolTip": "Models\\Form.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA7wA8AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T17:39:36.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FormRepository.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\FormRepository.cs",
-              "RelativeDocumentMoniker": "Repositoties\\Implementations\\FormRepository.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\FormRepository.cs",
-              "RelativeToolTip": "Repositoties\\Implementations\\FormRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T07:12:03.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20240517091043_addfieldforform.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517091043_addfieldforform.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240517091043_addfieldforform.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517091043_addfieldforform.cs",
-              "RelativeToolTip": "Migrations\\20240517091043_addfieldforform.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:10:43.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FileAttachment.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FileAttachment.cs",
-              "RelativeDocumentMoniker": "Models\\FileAttachment.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FileAttachment.cs",
-              "RelativeToolTip": "Models\\FileAttachment.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAswAoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T17:40:58.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FormType.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FormType.cs",
-              "RelativeDocumentMoniker": "Models\\FormType.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FormType.cs",
-              "RelativeToolTip": "Models\\FormType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T17:39:04.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "Controllers\\AccountsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:40:50.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "serviceDependencies.json",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Properties\\serviceDependencies.json",
-              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Properties\\serviceDependencies.json",
-              "RelativeToolTip": "Properties\\serviceDependencies.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-17T07:46:57.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "IFormRepository.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IFormRepository.cs",
-              "RelativeDocumentMoniker": "Repositoties\\Interfaces\\IFormRepository.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IFormRepository.cs",
-              "RelativeToolTip": "Repositoties\\Interfaces\\IFormRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "SalaryRepository.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\SalaryRepository.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Implementations\\SalaryRepository.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\SalaryRepository.cs",
+              "RelativeToolTip": "Repositoties\\Implementations\\SalaryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T07:13:47.055Z",
+              "WhenOpened": "2024-05-17T13:58:18.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Repositoties\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Repositoties\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:17:57.267Z",
+              "WhenOpened": "2024-05-15T16:14:32.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "Repositoties\\Implementations\\Repository.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\Repository.cs",
-              "RelativeToolTip": "Repositoties\\Implementations\\Repository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBUAAAAjAAAA",
+              "Title": "UserClaimsController.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\UserClaimsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserClaimsController.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\UserClaimsController.cs",
+              "RelativeToolTip": "Controllers\\UserClaimsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:18:01.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ApplicationMapper.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Helpers\\ApplicationMapper.cs",
-              "RelativeDocumentMoniker": "Helpers\\ApplicationMapper.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Helpers\\ApplicationMapper.cs",
-              "RelativeToolTip": "Helpers\\ApplicationMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:46:38.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IFileService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFileService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IFileService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFileService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IFileService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:50:08.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20240517045959_databaseupdate.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517045959_databaseupdate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240517045959_databaseupdate.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517045959_databaseupdate.cs",
-              "RelativeToolTip": "Migrations\\20240517045959_databaseupdate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:59:59.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Salary.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\Salary.cs",
-              "RelativeDocumentMoniker": "Models\\Salary.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\Salary.cs",
-              "RelativeToolTip": "Models\\Salary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T17:41:17.112Z",
+              "WhenOpened": "2024-05-16T06:10:17.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "UserClaimsService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserClaimsService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\UserClaimsService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserClaimsService.cs",
-              "RelativeToolTip": "Services\\Implementations\\UserClaimsService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAAjAAAA",
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:35:12.021Z",
+              "WhenOpened": "2024-05-15T16:43:12.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20240517023017_InitialCreate.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517023017_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240517023017_InitialCreate.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517023017_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20240517023017_InitialCreate.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowCwAAAA/AAAA",
+              "DocumentIndex": 24,
+              "Title": "20240517155622_ver5.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517155622_ver5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517155622_ver5.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517155622_ver5.cs",
+              "RelativeToolTip": "Migrations\\20240517155622_ver5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T02:30:17.349Z",
+              "WhenOpened": "2024-05-17T15:56:23.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "EmployeeManagementDBContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\EmployeeManagementDBContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8BAAAAAAAA",
+              "DocumentIndex": 29,
+              "Title": "ISalaryRepository.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\ISalaryRepository.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Interfaces\\ISalaryRepository.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\ISalaryRepository.cs",
+              "RelativeToolTip": "Repositoties\\Interfaces\\ISalaryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:39:23.89Z",
+              "WhenOpened": "2024-05-17T14:00:23.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "UserClaimDTO.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\UserClaimDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\UserClaimDTO.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\UserClaimDTO.cs",
-              "RelativeToolTip": "DTO\\UserClaimDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T05:07:24.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IClaimsRepository.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IClaimsRepository.cs",
-              "RelativeDocumentMoniker": "Repositoties\\Interfaces\\IClaimsRepository.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IClaimsRepository.cs",
-              "RelativeToolTip": "Repositoties\\Interfaces\\IClaimsRepository.cs",
+              "DocumentIndex": 28,
+              "Title": "ISalaryService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\ISalaryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISalaryService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\ISalaryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISalaryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:33:13.12Z",
+              "WhenOpened": "2024-05-17T14:36:33.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 31,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Repositoties\\Interfaces\\IRepository.cs",
@@ -712,7 +698,293 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Services\\Implementations\\UserService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:20:57.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormRepository.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\FormRepository.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Implementations\\FormRepository.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\FormRepository.cs",
+              "RelativeToolTip": "Repositoties\\Implementations\\FormRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:12:03.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IFormRepository.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IFormRepository.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Interfaces\\IFormRepository.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IFormRepository.cs",
+              "RelativeToolTip": "Repositoties\\Interfaces\\IFormRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:13:47.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FileAttachmentDTO.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FileAttachmentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FileAttachmentDTO.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FileAttachmentDTO.cs",
+              "RelativeToolTip": "DTO\\FileAttachmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:44:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Implementations\\Repository.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Repositoties\\Implementations\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:18:01.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240517134341_ver4.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517134341_ver4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517134341_ver4.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517134341_ver4.cs",
+              "RelativeToolTip": "Migrations\\20240517134341_ver4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:43:41.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repositoties\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:17:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormType.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FormType.cs",
+              "RelativeDocumentMoniker": "Models\\FormType.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\FormType.cs",
+              "RelativeToolTip": "Models\\FormType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:39:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 39,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\Form.cs",
+              "RelativeDocumentMoniker": "Models\\Form.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Models\\Form.cs",
+              "RelativeToolTip": "Models\\Form.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:39:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "Repositoties\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:18:02.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormDTO.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FormDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FormDTO.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\FormDTO.cs",
+              "RelativeToolTip": "DTO\\FormDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:58:08.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormsController.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\FormsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FormsController.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\FormsController.cs",
+              "RelativeToolTip": "Controllers\\FormsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:14:57.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RoleDTO.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\RoleDTO.cs",
+              "RelativeToolTip": "DTO\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:44:49.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IFormService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFormService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFormService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFormService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFormService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:11:44.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:00:02.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ClaimsRepository.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\ClaimsRepository.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Implementations\\ClaimsRepository.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Implementations\\ClaimsRepository.cs",
+              "RelativeToolTip": "Repositoties\\Implementations\\ClaimsRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:33:50.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240517091043_addfieldforform.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517091043_addfieldforform.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517091043_addfieldforform.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Migrations\\20240517091043_addfieldforform.cs",
+              "RelativeToolTip": "Migrations\\20240517091043_addfieldforform.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:10:43.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:40:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T07:46:57.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Helpers\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ApplicationMapper.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Helpers\\ApplicationMapper.cs",
+              "RelativeToolTip": "Helpers\\ApplicationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:46:38.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFileService.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:50:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserClaimDTO.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\UserClaimDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserClaimDTO.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\UserClaimDTO.cs",
+              "RelativeToolTip": "DTO\\UserClaimDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:07:24.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IClaimsRepository.cs",
+              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IClaimsRepository.cs",
+              "RelativeDocumentMoniker": "Repositoties\\Interfaces\\IClaimsRepository.cs",
+              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Repositoties\\Interfaces\\IClaimsRepository.cs",
+              "RelativeToolTip": "Repositoties\\Interfaces\\IClaimsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:33:13.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "ClaimRequirementFilter.cs",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Helpers\\ClaimRequirementFilter.cs",
               "RelativeDocumentMoniker": "Helpers\\ClaimRequirementFilter.cs",
@@ -720,12 +992,11 @@
               "RelativeToolTip": "Helpers\\ClaimRequirementFilter.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:15:23.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:15:23.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 54,
               "Title": "ClaimRequirementAttribute.cs",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Helpers\\ClaimRequirementAttribute.cs",
               "RelativeDocumentMoniker": "Helpers\\ClaimRequirementAttribute.cs",
@@ -733,25 +1004,11 @@
               "RelativeToolTip": "Helpers\\ClaimRequirementAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:14:44.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:14:44.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\TokenService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\TokenService.cs",
-              "ToolTip": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Services\\Implementations\\TokenService.cs",
-              "RelativeToolTip": "Services\\Implementations\\TokenService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAqwBUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:20:57.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 56,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -759,12 +1016,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T17:16:15.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T17:16:15.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 57,
               "Title": "AppRoles.cs",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\Helpers\\AppRoles.cs",
               "RelativeDocumentMoniker": "Helpers\\AppRoles.cs",
@@ -772,12 +1028,11 @@
               "RelativeToolTip": "Helpers\\AppRoles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:34:01.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T15:34:01.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "SignUpDTO.cs",
               "DocumentMoniker": "D:\\sem6\\.Net\\EmployeeManagementverchat\\DTO\\SignUpDTO.cs",
               "RelativeDocumentMoniker": "DTO\\SignUpDTO.cs",
@@ -785,8 +1040,7 @@
               "RelativeToolTip": "DTO\\SignUpDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T15:51:17.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T15:51:17.408Z"
             }
           ]
         }

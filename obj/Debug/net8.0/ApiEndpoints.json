@@ -151,6 +151,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "EmployeeManagement.Controllers.SalariesController",
+    "Method": "AddBasicSalary",
+    "RelativePath": "api/Salaries/AddBasicSalary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basicSalaryDTO",
+        "Type": "EmployeeManagement.DTO.BasicSalaryDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagement.Controllers.SalariesController",
+    "Method": "GetSalaryByEmail",
+    "RelativePath": "api/Salaries/GetSalaryByEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "UserClaimsController",
     "Method": "AddClaim",
     "RelativePath": "api/UserClaims/AddUserClaim",

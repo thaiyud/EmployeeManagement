@@ -4,6 +4,7 @@ using EmployeeManagement.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeeManagement.Migrations
 {
     [DbContext(typeof(EmployeeManagementDBContext))]
-    partial class EmployeeManagementDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240517170142_CorrectBasicSalaryRelationship")]
+    partial class CorrectBasicSalaryRelationship
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -375,9 +378,7 @@ namespace EmployeeManagement.Migrations
                 {
                     b.HasOne("EmployeeManagement.DTO.ApplicationUser", "User")
                         .WithOne("BasicSalary")
-                        .HasForeignKey("EmployeeManagement.Models.BasicSalary", "UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("EmployeeManagement.Models.BasicSalary", "UserId");
 
                     b.Navigation("User");
                 });
